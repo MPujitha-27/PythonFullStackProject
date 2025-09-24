@@ -80,9 +80,8 @@ CREATE TABLE Users (
 1.Create a '.env' file in the project root
 
 2.Add your Supabase Credentials to '.env':
-SUPABASE_URL = https://dzdipugofiocwcunypgm.supabase.co
-SUPABASE_KEY = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR6ZGlwdWdvZmlvY3djdW55cGdtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgwODIyMTgsImV4cCI6MjA3MzY1ODIxOH0.e4XXJeLcb5N_JEFT09oXG5bM3hq8aW9ouM2i7FFObag
-
+SUPABASE_URL = xyz
+SUPABASE_KEY = xyz
 
 ### 5. Run the Application
 
