@@ -3,7 +3,7 @@ The NutriGuide is a web-based application that helps users plan and manage daily
 
 # Key Features
 User Management: Registration, login, and profile with dietary goals
-Personalized Meal Plans: Daily/weekly plans based on calories and macros
+Personalized Meal Plans: Daily plans based on calories and macros
 Meal Browsing: View meals with ingredients, nutrition, and steps
 Favorites: Save preferred meals for easy access
 Search & Filter: Find meals by name, ingredients, category, or calories
