@@ -2,12 +2,12 @@
 The NutriGuide is a web-based application that helps users plan and manage daily meals based on their personal health goals, dietary preferences, and activity levels. Users can generate personalized meal plans, track calories and macronutrients, browse and save favorite meals, and search meals by category or ingredients. This project demonstrates full-stack development skills, including user authentication, CRUD operations, database design, and responsive frontend design.
 
 # Key Features
-User Management: Registration, login, and profile with dietary goals
-Personalized Meal Plans: Daily plans based on calories and macros
-Meal Browsing: View meals with ingredients, nutrition, and steps
-Favorites: Save preferred meals for easy access
-Search & Filter: Find meals by name, ingredients, category, or calories
-Optional Admin Panel: Add, edit, or delete meals
+Personalized User Profiles: Age, weight, height, activity level, and diet preferences.
+Health Metrics: BMR, BMI, daily calorie intake, water intake, and steps tracking.
+Weight Guidance: Recommendations for weight gain or loss based on BMI.
+Meal Plans: Options for Vegetarian, Non-Vegetarian, and Keto diets.
+Macro Visualization Charts: Displays protein, carbohydrate, and fat distribution.
+Ingredients List and Recipe Links: Detailed ingredients and preparation steps for each meal.
 
 # Project Structure
  
